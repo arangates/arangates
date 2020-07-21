@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Hi there 👋 :pray: 
+I’m <b>[Aranganathan](http://arangates.github.io/)</b>. I am a <b>Full Stack Engineer</b> from India :india:.
+- 🔭 I’m currently working on React, Redux, NodeJS, Django, DRF, Angular, PostgreSQL, Docker. 
+
+<p align="center">
+    <a href="https://www.binu.live" alt="portfolio">
+        <img src="https://img.shields.io/badge/Portfolio-aranga-brightgreen.svg" />
+    </a>&emsp;
+    <a href="https://www.linkedin.com/in/binu-kumar-5a7038146/" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-BinuKumar-blue?style=social&logo=Linkedin&logoColor=blue" />
+    </a>&emsp;
+    <a href="mailto:kbinu42@gmail.com" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red" />
+    </a>
+</p>
