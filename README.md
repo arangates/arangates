@@ -24,10 +24,10 @@ I’m <b>[Aranganathan](http://arangates.github.io/)</b>. I am a <b>Full Stack E
     <a href="https://www.binu.live" alt="portfolio">
         <img src="https://img.shields.io/badge/Portfolio-aranga-brightgreen.svg" />
     </a>&emsp;
-    <a href="https://www.linkedin.com/in/binu-kumar-5a7038146/" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-BinuKumar-blue?style=social&logo=Linkedin&logoColor=blue" />
+    <a href="https://www.linkedin.com/in/arangates/" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-Aranga-blue?style=social&logo=Linkedin&logoColor=blue" />
     </a>&emsp;
-    <a href="mailto:kbinu42@gmail.com" alt="LinkedIn">
+    <a href="mailto:arangates@gmail.com" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red" />
     </a>
 </p>
