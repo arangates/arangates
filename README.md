@@ -20,7 +20,7 @@ I’m <b>[Aranganathan](http://arangates.github.io/)</b>. I am a <b>Full Stack E
 - 🔭 I’m currently working on React, Redux, NodeJS, Django, DRF, Angular, PostgreSQL, Docker. 
 
 <p align="center">
-    <a href="https://www.binu.live" alt="portfolio">
+    <a href="http://arangates.github.io/" alt="portfolio">
         <img src="https://img.shields.io/badge/Portfolio-aranga-brightgreen.svg" />
     </a>&emsp;
     <a href="https://www.linkedin.com/in/arangates/" alt="LinkedIn">
