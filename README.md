@@ -43,7 +43,6 @@
         <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="sass" width="40" height="40"/> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="python" width="40" height="40"/> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="python" width="40" height="40"/> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/babel/babel-original.svg" alt="python" width="40" height="40"/> 
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
         </td>
         <td>
@@ -53,7 +52,6 @@
         <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></p><p>
         </div>
         </td>
       </tr>
