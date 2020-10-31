@@ -9,16 +9,16 @@
       <thead>
       <tr>
         <th>
-          <strong><a href="https://www.linkedin.com/in/arangates/">Languages</a></strong>
+          <strong><a href="https://www.linkedin.com/in/arangates/">Knows</a></strong>
         </th>
         <th>
-          <strong><a href="https://www.linkedin.com/in/arangates/">Frameworks</a></strong>
+          <strong><a href="https://www.linkedin.com/in/arangates/">Using</a></strong>
         </th>
         <th>
-          <strong><a href="https://www.linkedin.com/in/arangates/">Tools</a></strong>
+          <strong><a href="https://www.linkedin.com/in/arangates/">Occasionally use</a></strong>
         </th>
         <th>
-          <strong><a href="https://www.linkedin.com/in/arangates/">Others</a></strong>
+          <strong><a href="https://www.linkedin.com/in/arangates/">Also knows</a></strong>
         </th>
       </tr>
     </thead>
