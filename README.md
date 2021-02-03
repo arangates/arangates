@@ -9,14 +9,12 @@ I love working with Javascript.
 <details>
   <summary>GitHub Stats</summary>
 
-![GitHub Stats Card]
+![GitHub Stats Card]   
 
 </details>
 
 <details>
   <summary>GitHub Trophies</summary>
-
-<!-- https://github.com/ryo-ma/github-profile-trophy -->
 
 ![GitHub Trophies]
 
@@ -29,9 +27,14 @@ I love working with Javascript.
 
 </details>
 
-### Now Playing - Spotify 🎧
+<details>
+  <summary>Coding Activity</summary>
 
-<!-- Make your own https://www.youtube.com/watch?v=n6d4KHSKqGk&t=555s -->
+![Aranga's Coding stats]
+
+</details>
+
+### Now Playing - Spotify 🎧
 
 [<img src="https://novatorem-mu-olive.vercel.app/api/spotify" alt="Aranga, Spotify Playing" width="350" />](https://open.spotify.com/user/21xbe62tfkeoym6jacq4ae4la?si=Zrr4uZ9CT_ulgIfExnH9Bg)
 
@@ -39,6 +42,7 @@ I love working with Javascript.
 <!-- Links -->
 
 [Thoughts Pamphlet]: http://arangates.github.io/
-[github stats card]: https://github-readme-stats.vercel.app/api?username=arangates
-[github trophies]: https://github-profile-trophy.vercel.app/?username=arangates&column=4&margin-w=18&margin-h=15
 [github language split]: https://ghui.vercel.app/pie.png?username=arangates
+[github stats card]: https://github-readme-stats.vercel.app/api?username=arangates
+[Aranga's Coding stats]: https://github-readme-stats.vercel.app/api/wakatime?username=arangates
+[github trophies]: https://github-profile-trophy.vercel.app/?username=arangates&column=4&margin-w=18&margin-h=15
