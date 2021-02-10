@@ -38,6 +38,20 @@ I love working with Javascript.
 
 [<img src="https://novatorem-mu-olive.vercel.app/api/spotify" alt="Aranga, Spotify Playing" width="350" />](https://open.spotify.com/user/21xbe62tfkeoym6jacq4ae4la?si=Zrr4uZ9CT_ulgIfExnH9Bg)
 
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://codestackr.com)
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/arangates/arangates.github.io/pull/1) in [arangates/arangates.github.io](https://github.com/arangates/arangates.github.io)
 2. 🎉 Merged PR [#2](https://github.com/arangates/arangates.github.io/pull/2) in [arangates/arangates.github.io](https://github.com/arangates/arangates.github.io)
@@ -45,6 +59,7 @@ I love working with Javascript.
 4. 🎉 Merged PR [#4](https://github.com/arangates/arangates.github.io/pull/4) in [arangates/arangates.github.io](https://github.com/arangates/arangates.github.io)
 5. 🎉 Merged PR [#5](https://github.com/arangates/arangates.github.io/pull/5) in [arangates/arangates.github.io](https://github.com/arangates/arangates.github.io)
 <!--END_SECTION:activity-->
+</details>
 
 <!-- Links -->
 
