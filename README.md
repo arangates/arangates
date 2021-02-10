@@ -38,6 +38,7 @@ I love working with Javascript.
 
 [<img src="https://novatorem-mu-olive.vercel.app/api/spotify" alt="Aranga, Spotify Playing" width="350" />](https://open.spotify.com/user/21xbe62tfkeoym6jacq4ae4la?si=Zrr4uZ9CT_ulgIfExnH9Bg)
 
+<!--START_SECTION:activity-->
 
 <!-- Links -->
 
